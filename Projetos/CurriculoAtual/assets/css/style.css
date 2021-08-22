@@ -78,6 +78,7 @@ header .coluna-direita{
 
 header .coluna img{
     max-width: 100%;
+    border-radius: 1rem;
 }
 header .coluna h1{
     font-size: 1.5rem;
@@ -266,7 +267,7 @@ label span{
     }
     header .coluna img{
         max-width: 250px;
-        border-radius: 100%;
+        border-radius: 10%;
     }
     .container{
         width: 100%;
