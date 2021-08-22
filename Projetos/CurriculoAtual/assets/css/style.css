@@ -36,7 +36,7 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li
 }
 
 :root{
-    --corBackgroundPrimaria: #310D20;
+    --corBackgroundPrimaria: #660c3c;   ;
     --corBackgroundSecundaria: #310D20;
     --corBackgroundDark:#0e0e0e;
     --corTextPrimaria:#636363;
