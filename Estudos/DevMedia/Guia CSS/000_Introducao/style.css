@@ -1,4 +1,12 @@
+h1 {
+    font-family: Arial;
+    color: #333;
+}
+
 p {
-    color: purple;
-    font-size: 32px;
+    font-size: 14px;
+}
+
+blockquote {
+    margin: 0;
 }
